@@ -1,6 +1,6 @@
 
 
-💼 CS degree holder looking for work in software development.
+💼 CS degree holder looking for work in software development. US-based, and willing to relocate almost anywhere.
 
 🎨 Currently working on [a pixel editor made with Godot](https://www.youtube.com/watch?v=dcojTX6x5qU) (repo is not yet public).
 
